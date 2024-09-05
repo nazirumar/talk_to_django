@@ -1,2 +1,8 @@
 jupyter
 sentence-transformers
+pgvector
+django
+python-decouple
+llama-index
+llama-index-vector-stores-postgres
+sqlalchemy
